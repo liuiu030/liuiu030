@@ -14,9 +14,9 @@ I translate many years of creative direction into digital architectures. I disli
 
 **More of my work**
 
-- 🌐 [Portfolio](https://annelevy.netlify.app/) — brand strategy, digital transformation, projects since 2012
-- 💼 [LinkedIn](https://www.linkedin.com/in/annelevyberlin) — for inquiries & collaboration
-- ✍️ [liuiu on Substack](https://liuiu.substack.com/) — column & audio
-- 🖼️ [Are.na archive](https://www.are.na/anne-levy) — writing on brand management in the age of generative systems
+- 🌐 [Portfolio](https://annelevy.netlify.app/) thats about brand strategy, digital transformation, projects since 2012
+- 💼 [LinkedIn](https://www.linkedin.com/in/annelevyberlin) you can write me here for inquiries & collaboration
+- ✍️ [liuiu on Substack](https://liuiu.substack.com/) i like writing 
+- 🖼️ [Are.na archive](https://www.are.na/anne-levy) here i publish on creative ways to work with AI 
 
-📍 Berlin, Germany
+📍 I live and work in Berlin, Germany
