@@ -2,11 +2,11 @@
 
 Direction Brand & Marketing at [FSB Franz Schneider Brakel](https://www.fsb.de/) · Bildwissenschaftlerin · Berlin
 
-I translate 145 years of material culture into digital architectures — and turn management classics into practical AI tools on the side.
+I translate many years of creative direction into digital architectures. i hate that junoiors are not enabled it times of AI. thats why i  turn management classics into practical AI skills as shortcuts on the side. Because I had teachers.
 
 **Featured project**
 
-🚀 [**Fast-Track Leadership Bundle**](https://github.com/liuiu030/BarbaraMintoFramework) — Claude Agent Skills that give junior leaders instant access to McKinsey/Minto and Malik management thinking frameworks. Includes a built-in critical-check on where each model's limits are, so it's applied with judgement, not as a reflex.
+🚀 [**Fast-Track Leadership Bundle**](https://github.com/liuiu030/BarbaraMintoFramework)  Claude Agent Skills that give junior leaders instant access to McKinsey/Minto and Malik management thinking frameworks. Includes a built-in critical-check on where each model's limits are, so it's applied with judgement, not as a reflex.
 
 - 🧠 [`minto-pyramid`](https://github.com/liuiu030/BarbaraMintoFramework/tree/main/minto-pyramid) — Barbara Minto's Pyramid Principle for structuring presentations, memos and storylines
 - ⚖️ [`malik-management-decisions`](https://github.com/liuiu030/BarbaraMintoFramework/tree/main/malik-management-decisions) — Fredmund Malik's decision framework for preparing and reviewing management calls
