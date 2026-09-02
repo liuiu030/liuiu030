@@ -1,6 +1,6 @@
-### Hi, I'm Anne 👋
+### Hi, I'm Anne.
 
-Direction Brand & Marketing at [FSB Franz Schneider Brakel](https://www.fsb.de/) · Bildwissenschaftlerin · Berlin
+I do for money: Direction Brand & Marketing at [FSB Franz Schneider Brakel](https://www.fsb.de/) · I studied image sience and genrder studies when it was NOT cool once in Berlin.
 
 I translate many years of creative direction into digital architectures. i hate that junoiors are not enabled it times of AI. thats why i  turn management classics into practical AI skills as shortcuts on the side. Because I had teachers.
 
