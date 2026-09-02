@@ -3,7 +3,7 @@
 I do for money: Direction Brand & Marketing at [FSB Franz Schneider Brakel](https://www.fsb.de/).
 I studied image sience and genrder studies when it was NOT cool once in Berlin.
 
-I translate many years of creative direction into digital architectures. I dislike that Juniors are not enabled in times of AI. because there is simply no time atm.  Thats why i turn my learings and management skills and proven classivs into practical Claude skills as shortcuts on the side. Because I had teachers. and there is no reason not to have access. I only publish a new one when i notice in my own team that something is actually missing — not because a framework exists. BUT DISCLAIMER: before you use this: read about it! There is absolutley no sense to use frameworks you have no clue about. Cheers.
+I translate many years of creative direction into digital architectures. I dislike that Juniors are not enabled in times of AI. because there is simply no time atm.  Thats why i turn my learings and management skills and proven classivs into practical Claude skills as shortcuts on the side. Because I had teachers. and there is no reason not to have access. I only publish a new one when i notice in my own team that something is actually missing. BUT DISCLAIMER: before you use this: read about it! There is absolutley no sense to use frameworks you have no clue about. Cheers.
 
 **Featured project**
 
