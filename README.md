@@ -12,7 +12,7 @@ I translate many years of creative direction into digital architectures. I disli
 🧠 [`minto-pyramid`](https://github.com/liuiu030/BarbaraMintoFramework/tree/main/minto-pyramid) : The OG Barbara Minto's Pyramid Principle for structuring presentations, memos and storylines
  ⚖️ [`malik-management-decisions`](https://github.com/liuiu030/BarbaraMintoFramework/tree/main/malik-management-decisions) Also OG Fredmund Malik's decision framework for preparing and reviewing management calls
 
-Plus one extra skill I added on top: 📊 [`priorisierung`](https://github.com/liuiu030/BarbaraMintoFramework/tree/main/priorisierung) ICE, RICE, Eisenhower-Matrix & MoSCoW — in German, because sometimes "was mache ich zuerst" is easier to think through in your own language
+Plus one extra skill I added on top: 📊 [`priorisierung`](https://github.com/liuiu030/BarbaraMintoFramework/tree/main/priorisierung) ICE, RICE, Eisenhower-Matrix & MoSCoW for now in German, because sometimes "was mache ich zuerst" is easier to think through in your own language
 
 **More of my work**
 
