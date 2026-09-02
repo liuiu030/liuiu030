@@ -1,8 +1,8 @@
 ### Hi, I'm Anne 👋
 
-Brand & Leadership Strategy · Berlin
+Direction Brand & Marketing at [FSB Franz Schneider Brakel](https://www.fsb.de/) · Bildwissenschaftlerin · Berlin
 
-I turn management classics into practical tools — bridging strategic communication, brand positioning and hands-on AI workflows.
+I translate 145 years of material culture into digital architectures — and turn management classics into practical AI tools on the side.
 
 **Featured project**
 
@@ -10,5 +10,12 @@ I turn management classics into practical tools — bridging strategic communica
 
 - 🧠 [`minto-pyramid`](https://github.com/liuiu030/BarbaraMintoFramework/tree/main/minto-pyramid) — Barbara Minto's Pyramid Principle for structuring presentations, memos and storylines
 - ⚖️ [`malik-management-decisions`](https://github.com/liuiu030/BarbaraMintoFramework/tree/main/malik-management-decisions) — Fredmund Malik's decision framework for preparing and reviewing management calls
+
+**More of my work**
+
+- 🌐 [Portfolio](https://annelevy.netlify.app/) — brand strategy, digital transformation, projects since 2012
+- 💼 [LinkedIn](https://www.linkedin.com/in/annelevyberlin) — for inquiries & collaboration
+- ✍️ [liuiu on Substack](https://liuiu.substack.com/) — column & audio
+- 🖼️ [Are.na archive](https://www.are.na/anne-levy) — writing on brand management in the age of generative systems
 
 📍 Berlin, Germany
