@@ -1,7 +1,7 @@
 ### Hi, I'm Anne.
 
 I do for money: Direction Brand & Marketing at [FSB Franz Schneider Brakel](https://www.fsb.de/).
-I studied image sience and gender studies when it was NOT cool once in Berlin.
+I studied image sience and gender studies when it was NOT cool once in Berlin. I like the poetic and slow internet.
 
 I translate many years of creative direction into digital architectures. I dislike that Juniors are not enabled in times of AI. because there is simply no time atm.  Thats why I turn my learings and management skills and proven classivs into practical Claude skills as shortcuts on the side. Because I had generous teachers, and there is no reason to gatekeep. I only publish a new one when I notice in my own team that something is actually missing. BUT DISCLAIMER: before you use this: read about it! There is absolutley no sense to use frameworks you have no clue about. Cheers.
 
