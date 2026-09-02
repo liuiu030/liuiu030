@@ -9,8 +9,8 @@ I translate many years of creative direction into digital architectures. I disli
 
 🚀 [**Fast-Track Leadership Bundle**](https://github.com/liuiu030/BarbaraMintoFramework)  Claude Agent Skills that give junior leaders instant access to McKinsey/Minto and Malik management thinking frameworks. Includes a built-in critical-check on where each model's limits are, so it's applied with judgement, not as a reflex.
 
-🧠 [`minto-pyramid`](https://github.com/liuiu030/BarbaraMintoFramework/tree/main/minto-pyramid) — Barbara Minto's Pyramid Principle for structuring presentations, memos and storylines
- ⚖️ [`malik-management-decisions`](https://github.com/liuiu030/BarbaraMintoFramework/tree/main/malik-management-decisions) — Fredmund Malik's decision framework for preparing and reviewing management calls
+🧠 [`minto-pyramid`](https://github.com/liuiu030/BarbaraMintoFramework/tree/main/minto-pyramid) : The OG Barbara Minto's Pyramid Principle for structuring presentations, memos and storylines
+ ⚖️ [`malik-management-decisions`](https://github.com/liuiu030/BarbaraMintoFramework/tree/main/malik-management-decisions) Also OG Fredmund Malik's decision framework for preparing and reviewing management calls
 
 **More of my work**
 
