@@ -17,7 +17,7 @@ Plus one extra skill I added on top: 📊 [`priorisierung`](https://github.com/l
 
 **Also shipped**
 
-📱 [**Check-In Check-Out Check**](https://github.com/liuiu030/check-in-check-out-check) — a tiny installable PWA for team rituals: check-in/check-out question cards plus quick wildcards for hybrid and distributed teams. No backend, no accounts, works offline. [Live demo](https://liuiu030.github.io/check-in-check-out-check/)
+📱 [**Check-In Check-Out Check**](https://github.com/liuiu030/check-in-check-out-check) A tiny installable PWA for Dailys and team rituals: check-in/check-out question cards plus quick wildcards for hybrid and distributed teams. No backend, no accounts, works offline. [Live demo](https://liuiu030.github.io/check-in-check-out-check/)
 
 **More of my work**
 
