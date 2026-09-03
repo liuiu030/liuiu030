@@ -15,6 +15,10 @@ I translate many years of creative direction into digital architectures. I disli
 
 Plus one extra skill I added on top: 📊 [`priorisierung`](https://github.com/liuiu030/BarbaraMintoFramework/tree/main/priorisierung) ICE, RICE, Eisenhower-Matrix & MoSCoW for now in German, because sometimes "was mache ich zuerst" is easier to think through in your own language
 
+**Also shipped**
+
+📱 [**Check-In Check-Out Check**](https://github.com/liuiu030/check-in-check-out-check) — a tiny installable PWA for team rituals: check-in/check-out question cards plus quick wildcards for hybrid and distributed teams. No backend, no accounts, works offline. [Live demo](https://liuiu030.github.io/check-in-check-out-check/)
+
 **More of my work**
 
 - 🌐 [Portfolio](https://annelevy.netlify.app/) thats about brand strategy, digital transformation, projects since 2012
