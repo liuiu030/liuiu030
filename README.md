@@ -19,6 +19,8 @@ Plus one extra skill I added on top: 📊 [`priorisierung`](https://github.com/l
 
 📱 [**Check-In Check-Out Check**](https://github.com/liuiu030/check-in-check-out-check) A tiny installable PWA for Dailys and team rituals: check-in/check-out question cards plus quick wildcards for hybrid and distributed teams. No backend, no accounts, works offline. [Live demo](https://liuiu030.github.io/check-in-check-out-check/)
 
+💬 [**Feedback Friday**](https://github.com/liuiu030/feedback-friday) Two installable web pages for regular team feedback, built on the 4A rules from *No Rules Rules* (Netflix) and the Start/Stop/Continue format: a guided 20-minute 1:1 session and a 4A feedback trainer with quiz, workshop and XP/badges. No backend, no accounts. [Live demo](https://liuiu030.github.io/feedback-friday/)
+
 **More of my work**
 
 - 🌐 [Portfolio](https://annelevy.netlify.app/) thats about brand strategy, digital transformation, projects since 2012
